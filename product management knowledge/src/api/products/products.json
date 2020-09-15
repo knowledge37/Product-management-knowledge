@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Huawei",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2019",
+    "description": "p30 Lite.",
+    "price": 19.95,
+    "starRating": 3.2,
+    "imageUrl": "assets/images/p30.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "camera",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2019",
+    "description": "canon",
+    "price": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/Camera.jpeg"
+  },
+  {
+    "productId": 5,
+    "productName": "Printer",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2019",
+    "description": "HP",
+    "price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/hp printer.jpeg"
+  },
+  {
+    "productId": 8,
+    "productName": "Samsung",
+    "productCode": "TBX-0022",
+    "releaseDate": "May 15, 2019",
+    "description": "A20",
+    "price": 5600.55,
+    "starRating": 3.7,
+    "imageUrl": "assets/images/samsung.jpeg"
+  },
+  {
+    "productId": 10,
+    "productName": "laptop",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2018",
+    "description": "i7 aspiron",
+    "price": 40000.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/dell.jpeg"
+  }
+]
